@@ -10994,6 +10994,11 @@ tr.eu.org
 uk.eu.org
 us.eu.org
 
+// Facebook, Inc. https://www.facebook.com
+// Submitted by Simon Blackstein <simonb@fb.com> 2015-10-06
+0.internet.org
+0.freebasics.com
+
 // Fastly Inc. http://www.fastly.com/
 // Submitted by Vladimir Vuksan <vladimir@fastly.com> 2013-05-31
 a.ssl.fastly.net
